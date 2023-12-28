@@ -1,5 +1,2 @@
-# Description
-
-<aside>   
-    This project is a challenge carried out by rocketseat in React studies
-</aside>
+### Description
+This project is a challenge carried out by [Rocketseat](https://www.rocketseat.com.br/) in React studies
